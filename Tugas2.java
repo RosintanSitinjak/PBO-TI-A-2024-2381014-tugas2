@@ -1,4 +1,3 @@
-import java.awt.geom.PathIterator;
 import java.util.Scanner;
 
 public class Tugas2 {

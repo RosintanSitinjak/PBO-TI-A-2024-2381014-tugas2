@@ -53,7 +53,7 @@ public class Tugas2 {
         return sisi * sisi;
     }
 
-    //method untuk luas keliling persegi
+    //method untuk keliling persegi
     public static double kelilingPersegi(double sisi) {
         return 4 * sisi;
     }
